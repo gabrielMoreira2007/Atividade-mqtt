@@ -1,0 +1,213 @@
+--- LOG EM 2025-08-05 08:22:11 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 08:22:41 ---
+Tópico: servidor/temperatura | Último Dado: 41.95
+
+--- LOG EM 2025-08-05 08:23:11 ---
+Tópico: servidor/temperatura | Último Dado: 65.05
+
+--- LOG EM 2025-08-05 08:23:41 ---
+Tópico: servidor/temperatura | Último Dado: 43.39
+
+--- LOG EM 2025-08-05 08:24:11 ---
+Tópico: servidor/temperatura | Último Dado: 40.86
+
+--- LOG EM 2025-08-05 08:24:41 ---
+Tópico: servidor/temperatura | Último Dado: 79.17
+
+--- LOG EM 2025-08-05 08:25:11 ---
+Tópico: servidor/temperatura | Último Dado: 58.72
+
+--- LOG EM 2025-08-05 08:25:41 ---
+Tópico: servidor/temperatura | Último Dado: 56.49
+
+--- LOG EM 2025-08-05 08:26:11 ---
+Tópico: servidor/temperatura | Último Dado: 74.16
+
+--- LOG EM 2025-08-05 08:26:41 ---
+Tópico: servidor/temperatura | Último Dado: 42.88
+
+--- LOG EM 2025-08-05 08:27:11 ---
+Tópico: servidor/temperatura | Último Dado: 60.04
+
+--- LOG EM 2025-08-05 08:27:41 ---
+Tópico: servidor/temperatura | Último Dado: 42.23
+
+--- LOG EM 2025-08-05 08:28:11 ---
+Tópico: servidor/temperatura | Último Dado: 77.74
+
+--- LOG EM 2025-08-05 08:28:41 ---
+Tópico: servidor/temperatura | Último Dado: 72.32
+
+--- LOG EM 2025-08-05 08:29:11 ---
+Tópico: servidor/temperatura | Último Dado: 77.87
+
+--- LOG EM 2025-08-05 08:29:41 ---
+Tópico: servidor/temperatura | Último Dado: 30.49
+
+--- LOG EM 2025-08-05 08:30:11 ---
+Tópico: servidor/temperatura | Último Dado: 56.72
+
+--- LOG EM 2025-08-05 08:30:41 ---
+Tópico: servidor/temperatura | Último Dado: 36.14
+
+--- LOG EM 2025-08-05 08:31:11 ---
+Tópico: servidor/temperatura | Último Dado: 58.48
+
+--- LOG EM 2025-08-05 08:31:41 ---
+Tópico: servidor/temperatura | Último Dado: 34.19
+
+--- LOG EM 2025-08-05 08:32:11 ---
+Tópico: servidor/temperatura | Último Dado: 45.57
+
+--- LOG EM 2025-08-05 08:32:41 ---
+Tópico: servidor/temperatura | Último Dado: 55.72
+
+--- LOG EM 2025-08-05 08:33:11 ---
+Tópico: servidor/temperatura | Último Dado: 66.78
+
+--- LOG EM 2025-08-05 08:33:41 ---
+Tópico: servidor/temperatura | Último Dado: 38.74
+
+--- LOG EM 2025-08-05 08:34:11 ---
+Tópico: servidor/temperatura | Último Dado: 41.33
+
+--- LOG EM 2025-08-05 08:34:41 ---
+Tópico: servidor/temperatura | Último Dado: 36.3
+
+--- LOG EM 2025-08-05 08:35:11 ---
+Tópico: servidor/temperatura | Último Dado: 61.71
+
+--- LOG EM 2025-08-05 08:35:41 ---
+Tópico: servidor/temperatura | Último Dado: 76.63
+
+--- LOG EM 2025-08-05 08:36:11 ---
+Tópico: servidor/temperatura | Último Dado: 34.16
+
+--- LOG EM 2025-08-05 08:36:41 ---
+Tópico: servidor/temperatura | Último Dado: 64.13
+
+--- LOG EM 2025-08-05 08:37:11 ---
+Tópico: servidor/temperatura | Último Dado: 33.43
+
+--- LOG EM 2025-08-05 08:37:42 ---
+Tópico: servidor/temperatura | Último Dado: 73.89
+
+--- LOG EM 2025-08-05 08:38:12 ---
+Tópico: servidor/temperatura | Último Dado: 53.75
+
+--- LOG EM 2025-08-05 08:38:42 ---
+Tópico: servidor/temperatura | Último Dado: 43.2
+
+--- LOG EM 2025-08-05 08:39:12 ---
+Tópico: servidor/temperatura | Último Dado: 48.54
+
+--- LOG EM 2025-08-05 08:39:42 ---
+Tópico: servidor/temperatura | Último Dado: 36.61
+
+--- LOG EM 2025-08-05 08:40:12 ---
+Tópico: servidor/temperatura | Último Dado: 37.53
+
+--- LOG EM 2025-08-05 08:40:42 ---
+Tópico: servidor/temperatura | Último Dado: 41.31
+
+--- LOG EM 2025-08-05 08:41:12 ---
+Tópico: servidor/temperatura | Último Dado: 30.09
+
+--- LOG EM 2025-08-05 08:41:42 ---
+Tópico: servidor/temperatura | Último Dado: 73.72
+
+--- LOG EM 2025-08-05 08:42:12 ---
+Tópico: servidor/temperatura | Último Dado: 47.49
+
+--- LOG EM 2025-08-05 08:42:42 ---
+Tópico: servidor/temperatura | Último Dado: 76.71
+
+--- LOG EM 2025-08-05 08:43:12 ---
+Tópico: servidor/temperatura | Último Dado: 74.96
+
+--- LOG EM 2025-08-05 08:43:42 ---
+Tópico: servidor/temperatura | Último Dado: 37.67
+
+--- LOG EM 2025-08-05 08:44:12 ---
+Tópico: servidor/temperatura | Último Dado: 48.6
+
+--- LOG EM 2025-08-05 08:44:42 ---
+Tópico: servidor/temperatura | Último Dado: 62.98
+
+--- LOG EM 2025-08-05 08:45:12 ---
+Tópico: servidor/temperatura | Último Dado: 63.68
+
+--- LOG EM 2025-08-05 08:45:42 ---
+Tópico: servidor/temperatura | Último Dado: 71.59
+
+--- LOG EM 2025-08-05 08:46:12 ---
+Tópico: servidor/temperatura | Último Dado: 55.48
+
+--- LOG EM 2025-08-05 08:46:42 ---
+Tópico: servidor/temperatura | Último Dado: 55.39
+
+--- LOG EM 2025-08-05 08:47:12 ---
+Tópico: servidor/temperatura | Último Dado: 75.24
+
+--- LOG EM 2025-08-05 08:47:42 ---
+Tópico: servidor/temperatura | Último Dado: 71.92
+
+--- LOG EM 2025-08-05 08:48:12 ---
+Tópico: servidor/temperatura | Último Dado: 77.49
+
+--- LOG EM 2025-08-05 08:48:42 ---
+Tópico: servidor/temperatura | Último Dado: 30.3
+
+--- LOG EM 2025-08-05 08:49:12 ---
+Tópico: servidor/temperatura | Último Dado: 44.81
+
+--- LOG EM 2025-08-05 08:49:42 ---
+Tópico: servidor/temperatura | Último Dado: 79.36
+
+--- LOG EM 2025-08-05 08:50:12 ---
+Tópico: servidor/temperatura | Último Dado: 77.14
+
+--- LOG EM 2025-08-05 08:50:42 ---
+Tópico: servidor/temperatura | Último Dado: 78.32
+
+--- LOG EM 2025-08-05 08:51:12 ---
+Tópico: servidor/temperatura | Último Dado: 32.45
+
+--- LOG EM 2025-08-05 08:51:42 ---
+Tópico: servidor/temperatura | Último Dado: 31.41
+
+--- LOG EM 2025-08-05 08:52:12 ---
+Tópico: servidor/temperatura | Último Dado: 44.67
+
+--- LOG EM 2025-08-05 08:52:42 ---
+Tópico: servidor/temperatura | Último Dado: 78.26
+
+--- LOG EM 2025-08-05 08:53:12 ---
+Tópico: servidor/temperatura | Último Dado: 39.83
+
+--- LOG EM 2025-08-05 08:53:42 ---
+Tópico: servidor/temperatura | Último Dado: 46.42
+
+--- LOG EM 2025-08-05 08:54:12 ---
+Tópico: servidor/temperatura | Último Dado: 35.53
+
+--- LOG EM 2025-08-05 08:54:42 ---
+Tópico: servidor/temperatura | Último Dado: 42.31
+
+--- LOG EM 2025-08-05 08:55:12 ---
+Tópico: servidor/temperatura | Último Dado: 44.83
+
+--- LOG EM 2025-08-05 08:55:42 ---
+Tópico: servidor/temperatura | Último Dado: 48.71
+
+--- LOG EM 2025-08-05 08:56:12 ---
+Tópico: servidor/temperatura | Último Dado: 69.18
+
+--- LOG EM 2025-08-05 08:56:42 ---
+Tópico: servidor/temperatura | Último Dado: 33.78
+
+--- LOG EM 2025-08-05 08:57:12 ---
+Tópico: servidor/temperatura | Último Dado: 75.68
+
